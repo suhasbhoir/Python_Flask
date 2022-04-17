@@ -1,0 +1,24 @@
+{
+  "parameters":
+  {
+    "local_server": "True",
+    "local_server_uri": "mysql://suhasbhoir:xswqazZX2$@localhost/networkthunder",
+    "prod_server_uri": "mysql://suhasbhoir:xswqazZX2$@localhost/networkthunder",
+    "div_fb": "https://facebook.com/networkthunder",
+    "div_twitter": "https://twitter.com/networkthunder",
+    "div_git": "https://github.com/networkthunder",
+    "blog_name": "NetworkThunder",
+    "Blog_main_page_title": "Network & Security Open Forum",
+    "Blog_main_page_subtitle": "You will get write solution here...",
+    "mail_user": "networkthunder8@gmail.com",
+    "mail_pass": "Fl@skma!l$987#",
+    "about_us": "need to write here something about us",
+    "no_of_post": 4,
+    "login_image":"login_image2.png",
+    "admin_user":"cisco",
+    "admin_password": "abc_123",
+    "upload_location": "//home/suhasbhoir//PycharmProjects//IT_BLOG_PROJECT_YCMOU//uploader",
+    "copyright": "Copyright © NetworkThunder 2022"
+
+  }
+}
